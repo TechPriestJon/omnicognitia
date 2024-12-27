@@ -2,9 +2,6 @@
 ## All Thought
 ### Current To Do
 
-**Omnicognitia Doctrina**
-Source of learning.
-
 **Omnicognitia Doctrina ES**
 Project for language learning app (ES)
 
@@ -27,20 +24,24 @@ Other Git repos (?)
 ### Other thoughts
 -!! Remember to explore other repos to backup notes
 
+- React
+- AWS infra
+- Python
+- OpenSearch
+- Current .Net
+- Terraform
+- EC2
+- Docker
+- Kubernetes
 - AI
 - C++
-- Current .Net
+- Azure infra
 - RaspberryPi
 - Arduino
-- Python
 - Vision
 - LLM
 - Misc Algorithms/Functions
-- React
 - Angular/Vue
-- AWS infra
-- Azure infra
-- Terraform
 - Serverless(?)
 - Google Cloud (?)
 - Local iron + IIS
